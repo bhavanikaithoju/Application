@@ -1,5 +1,4 @@
 pipeline
-Agent any
 stages{
     stage('Git checkout'){
         steps{
